@@ -77,6 +77,74 @@ Forecasting -> We put a value on the prediction -> Time Dependent data has to be
 
 
 
+# Day2
+
+Before solving a research-based question, we have to do certain things:
+
+## First Step - Requirement Analysis
+
+We have to check the requirements
+
+## Background Check - Literature Survey
+
+If the problem to be solved is already solved or not
+
+Search what has been done regarding the problem that I am solving - journals, research, etc.
+
+### Look back - but how much back in time do we have to look?
+
+Looking too back might give us results that might be redundant, use old software or have better methods of solving
+
+A good rule of thumb is to check for the last 5 years (sometime less or more).
+
+Another good rule of thumb look back until we get atleast 10 research papers.
+
+Decency : We must not haphazardly refer to all the sources. We mention the research papers in chronological order(oldest to newest or vice versa). Generally, we should refer the newest papers at the first and then slowly move on to the oldest papers.
+
+## Analyze solutions and look for ways to improve the solution - Theoretical Foundation
+
+We have to analyze the solutions we get and then look for the scope in the improvement by looking for the drawbacks in the past solutions.
+
+The past papers produced better solutions and not perfect solutions.
+
+Look for ways to enhance. If this step fails, we cannot move forward with solving the problem
+
+If we find a way to enhance, then this becomes the scope of the problem.
+
+## Implementation
+
+Design <-  <<Interchangeable>>  -> Code
+
+Many a times when we try coding, the design might not be practically non-implementable, then we have to look back to design and gradually improve the solution.
+
+Very time-consuming process
+
+## Testing
+
+We do the implementation based upon some known data. Here we have to check the solution for some other valid data.
+
+If we get a better result, we have completed the work 
+
+## Conclusion
+
+Conclude the results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
